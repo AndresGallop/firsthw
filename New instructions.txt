@@ -1,0 +1,2 @@
+This web page is so simple, so I will try to add to it some logos linked to my social networks
+such as Facebook, Instagram and one for whatsapp but it will be a link href="#" that won´t take anywhere.
